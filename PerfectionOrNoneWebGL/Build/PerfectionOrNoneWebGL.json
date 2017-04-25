@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PerfectionOrNoneWebGL.data.unityweb",
+"asmCodeUrl": "PerfectionOrNoneWebGL.asm.code.unityweb",
+"asmMemoryUrl": "PerfectionOrNoneWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "PerfectionOrNoneWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
